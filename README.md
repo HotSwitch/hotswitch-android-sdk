@@ -1,0 +1,1 @@
+# HotSwitch Android SDK
